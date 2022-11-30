@@ -1,0 +1,103 @@
+
+wenos dias
+
+equipo 6
+
+para contextualizar estamos trabajando con un centro 
+médico orientado a la atención de niños y jovenes,
+ ubicado en la comuna de san fernando.
+ La industría a la que pertenece la empresa es a la de 
+arriendo de espacios, ya que la empresa genera ingresos 
+a partir del arriendo de consultas médicas a profesionales 
+de la salud a doc con la linea que sigue el centro médico.
+
+Para poder identificar problemas, hicimos visitas a terreno
+ para ver el funcionamiento del centro,
+revisar su contabilidad y conversar con los trabajadores
+para ver que creían ellos que podia ser un problema que
+despues nosotros orientaramos desde la ingeniería para poder abordarlo
+y resolverlo.
+
+Luego de un analisis a diferentes aristas de la empresa 
+logramos llegar a un diagnóstico en donde identificamos 
+falencias en el sistema administrativo de la empresa.
+
+en este podemos dividirlo en 3
+el sistema contable, el de arriendo de las consultas 
+médicas y el de agendamiento de horas para pacientes.
+
+con este ultimo la empresa trabaja con un software 
+externo que funciona de forma eficiente por lo que
+ no nos vamos a centrar en ese de forma individual.
+
+Por otro lado en estos otros 2, tenemos falencias 
+ya que ambos se llevan a mano, y eso se ha transformado 
+en pérdidas para la empresa y tambien en un esfuerzo
+ extra por mantener el orden dentro de estos.
+
+En el caso de la contabilidad, además de llevarse 
+a mano, los gastos e ingresos estan dispersos en distintos
+ documentos, y no siempre cuadran unos documentos con otros.
+ por lo que no podemos hacernos una idea clara de la
+ situación de la empresa
+
+En el caso del sistema de arriendo, las consultas
+ se arriendan por jornada a los distintos profesionales. 
+Jornada de mañana o jornada de tarde. pero hay veces en 
+que un trabajador, solo tiene un paciente agendado 
+para el día y el resto de la jornada la consulta 
+queda inactiva.
+
+esta situación genera un dolor económico para los clientes,
+ que son los arriendan y tambien se presenta como un costo
+ de oportunidad para la empresa.
+
+Finalmente llegamos al objetivo que queremos lograr, y
+ el principal es que queremos facilitar el sistema 
+administrativo de la empresa, y para ello tenemos que
+ facilitar los sistemas de arriendo y de contabilidad 
+para aumentar la eficiencia administrativa. 
+
+y la forma en que vamos a hacerlo es juntando y relacionando los
+diferentes sistemas de administración de la empresa.
+para que puedan intercambiar información y esta sea la 
+misma en cada sistema y no difiera.
+
+Para ello primero debemos arreglar la contabilidad de la empresa
+y disponerla de modo que sea facil llevarla.
+
+además debemos definir bien como se arrendaran las consultas dependiendo
+del profesional, y lo que usemos para ello debe tambien poder distinguir
+este requerimiento
+
+además debemos definir la forma en que concentraremos los sistemas administrativos
+
+y debemos disponerlos para 
+
+Para poder medir nuestro desempeño vamos a considerar 3 indicadores.
+
+En primer lugar está el EBITDA que nos ayudará a medir 
+la rentabilidad de la empresa con respecto a la industría
+ y además nos permitirá comparar este con algun indicador
+ que la empresa haya considerado en el pasado pero que haya 
+tenido un gran margen de error.
+
+Por el otro lado consideramos los ingresos por venta para
+ revisar la productividad de las consultas médicas y tambien
+ el tiempo de inactividad para saber que tanto del tiempo 
+reservado y no reservado, pasan sin uso las consultas.
+ por lo que trataremos de mejorar estos 3 indicadores.
+
+Finalmete la solución que debemos lograr es juntar los diferentes sistemas
+administrativos de la empresa, ayudados de la tecnología para lograr
+una transformación digital y que la empresa se adecue a la forma
+de utilizar la tecnología que utilizan otras empresas en el mercado.
+
+Para ello vamos a disponer de una página web que concentrará los sistemas
+administrativos,facilitará la gestión y además permitirá que la empresa tenga otra forma de acercarse
+a los clientes.
+
+
+Esta es la propuesta que tenemos pensada para desarrollar nuestro proyecto 
+
+Muchas gracias
